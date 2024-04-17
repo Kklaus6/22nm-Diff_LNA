@@ -1,0 +1,2 @@
+; Mar 24 16:28:23 2024
+((selectionObject validSelectionObject t fullName "/PORT2/MINUS" type terminal) (selectionObject validSelectionObject t fullName "/PORT2/PLUS" type terminal) (selectionObject validSelectionObject t fullName "/PORT1/MINUS" type terminal) (selectionObject validSelectionObject t fullName "/PORT1/PLUS" type terminal))
