@@ -1,0 +1,3 @@
+The files in Schematic are the primary circuits for LNA simulation.
+CS_LNA is the designed single-ended LNA.
+Diff_LNA is the differential LNA required in HW2.
